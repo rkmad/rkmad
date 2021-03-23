@@ -3,6 +3,7 @@ Ryan Kniewel is a data science professional bridging the worlds of data and biot
 
 # Connect with me
 [LinkedIn](https://www.linkedin.com/in/ryan-kniewel/)
+
 [Data Science Project Portfolio](https://nycdatascience.com/blog/author/ryan-kniewel/)
 
 # Data Science Projects
