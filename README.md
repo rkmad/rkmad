@@ -3,17 +3,16 @@ Ryan Kniewel is a data science professional bridging the worlds of data and biot
 
 # Connect with me
 [LinkedIn](https://www.linkedin.com/in/ryan-kniewel/)
-
 [Data Science Project Portfolio](https://nycdatascience.com/blog/author/ryan-kniewel/)
 
-# Selected Data Science Projects
+# Data Science Projects
 1. **Beating the Scam: Identifying Medicare Fraud Through Machine Learning - March 2021 - [Article](https://nycdatascience.com/blog/author/ryan-kniewel/) - [Repository](https://github.com/rkmad/HealthCareFraud/)**
     - Developed a framework using supervised machine learning to accurately detect fraudulent Medicare claims
     - Demonstrated the utility of the model using actual cost savings metrics
 
 2. **A Thirty Thousand Foot View of Air Travel Post-COVID - February 2021 - [Article](https://nycdatascience.com/blog/student-works/a-thirty-thousand-foot-view-of-air-travel-post-covid/) - [Repository](https://github.com/rkmad/NYCDSA_Hackathon_Feb_2021)**
     - Analyzed airline routes and predicted travel trend changes to occur post-COVID
-    - Identified cities and airports which are undervalued in the old business model, and where an increased presence can yield great returns
+    - Identified cities and airports that are undervalued in the old business model where an increased presence can yield returns
     - Leveraged growing vacation travel demand to gain market share and provide a counter-cyclic profit driver
 
 3. **Predicting House Prices Using Advanced Regression Techniques - January 2021 - [Article](https://nycdatascience.com/blog/author/ryan-kniewel/) - [Repository](https://github.com/mwc201/Housing_Price_Prediction)**
