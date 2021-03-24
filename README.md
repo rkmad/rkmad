@@ -1,5 +1,5 @@
 # Summary
-Ryan Kniewel is a data science professional bridging the worlds of data and biotechnology by leveraging data science tools honed over a foundation of over 20 years experience working in biological, genetic and synthetic biology research. Proven abilities in analyzing massive datasets, data visualization, machine learning, project management, organization; communication and dissemination of results.
+Ryan Kniewel is a data science professional bridging the worlds of data and biotechnology by leveraging data science tools honed over a foundation of over 20 years experience working in biological, genetic and synthetic biology research. Proven abilities in machine learning, analyzing massive datasets, data visualization, project management, organization; communication and dissemination of results.
 
 
 # Connect with me
