@@ -9,7 +9,7 @@ Ryan Kniewel is a data science professional bridging the worlds of data and biot
 
 
 # Data Science Projects
-1. **Beating the Scam: Identifying Medicare Fraud Through Machine Learning - March 2021 - [Article](https://nycdatascience.com/blog/author/ryan-kniewel/) - [Repository](https://github.com/rkmad/HealthCareFraud/)**
+1. **Beating the Scam: Identifying Medicare Fraud Through Machine Learning - March 2021 - [Article](https://nycdatascience.com/blog/student-works/beating-the-scam-identifying-medicare-fraud-through-machine-learning/) - [Repository](https://github.com/rkmad/HealthCareFraud/)**
     - Developed a framework using machine learning to accurately detect fraudulent Medicare claims
     - Demonstrated the utility of the model using actual cost savings metrics
 
