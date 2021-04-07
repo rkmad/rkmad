@@ -20,7 +20,7 @@ Ryan Kniewel is a data science professional bridging the worlds of data and biot
     - Leveraged growing vacation travel demand to gain market share and provide a counter-cyclic profit driver
 
 
-3. **Predicting House Prices Using Advanced Regression Techniques - January 2021 - [Article](https://nycdatascience.com/blog/author/ryan-kniewel/) - [Repository](https://github.com/mwc201/Housing_Price_Prediction)**
+3. **Predicting House Prices by the Application of Machine Learning Models - January 2021 - [Article](https://nycdatascience.com/blog/student-works/predicting-house-prices-by-the-application-of-machine-learning-models/) - [Repository](https://github.com/mwc201/Housing_Price_Prediction)**
     - Implemented multiple supervised machine learning models to develop a house price predictor
 
 
