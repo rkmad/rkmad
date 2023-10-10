@@ -1,5 +1,7 @@
 # Summary
-I am a Data Science/AI problem solver with a diverse background bridging the worlds of AI, data, and biotechnology by leveraging machine learning tools honed over a foundation of over 20 years experience running biological, genetic, and synthetic biology research projects. Proven abilities in deep learning, handling massive datasets, project leadership, people management, organization, and dissemination of results.
+Data science/ML leader and problem solver bridging the worlds of AI, data, and biotechnology by leveraging machine learning tools honed over a foundation of over 20 years experience running biological, genetic, and synthetic biology research projects. Proven abilities in deep learning, handling massive datasets, project leadership, people management, organization, and dissemination of results.
+
+I pride myself on being analytical, inventive, resourceful, detail-oriented, and easy to work with.
 
 My varied interests intersect with the fields of biotechnology, medtech, genomics, public health, sustainability, new materials, and energy.
 
